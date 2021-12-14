@@ -1,0 +1,2 @@
+# ADGuardHome-Rules
+ADGuardHome-Rules

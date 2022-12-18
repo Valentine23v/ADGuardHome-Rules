@@ -1,4 +1,4 @@
-#block-adobe
+!block-adobe
 ||activate.navicat.com^
 ||activate.adobe.com^
 ||practivate.adobe.com^
@@ -13,7 +13,7 @@
 ||ereg.wip3.adobe.com^
 ||activate-sea.adobe.com^
 ||activate-sjc0.adobe.com^
-#block-360
+!block-360
 ||360.cn^
 ||360.com^
 ||360-jr.com^
@@ -65,7 +65,7 @@
 ||xjietiao.com^
 ||youhua.com^
 ||yunpan.cn^
-#white-list
+!white-list
 @@||microsoft.com^
 @@||xbox.com^
 @@||gfe.nvidia.com^
